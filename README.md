@@ -1,4 +1,4 @@
-# Team Bravo – HIREConnect App
+# Team Bravo – HIREConnect APP
 
 This is the **frontend application** for the KConnect Profile Card system, built with **React.js**, **Tailwind CSS**, and **Framer Motion**. It enables users to register, verify their email via OTP, log in, and manage rich professional profiles including uploading avatars, documents, and showcasing skills.
 
